@@ -1,17 +1,17 @@
 <script setup lang="ts"> 
 
 const players = [
-  { name: "Mario Halas", age: 22, position: "Levi bek", image: "/mariohalas.png" },
-  { name: "Petar Janković", age: 23, position: "Desni bek", image: "/mariohalas.png" },
-  { name: "Nemanja Petrović", age: 24, position: "Vezni", image: "/mariohalas.png" },
-  { name: "Ivan Milovanović", age: 21, position: "Napadač", image: "/mariohalas.png" },
-  { name: "Marko Nikolić", age: 25, position: "Odbrambeni", image: "/mariohalas.png" },
-  { name: "Luka Marković", age: 20, position: "Golman", image: "/mariohalas.png" },
-  { name: "Aleksandar Simović", age: 27, position: "Vezni", image: "/mariohalas.png" },
-  { name: "Stefan Ilić", age: 19, position: "Levi bek", image: "/mariohalas.png" },
-  { name: "Nikola Živković", age: 22, position: "Desni bek", image: "/mariohalas.png" },
-  { name: "Bojan Perić", age: 23, position: "Napadač", image: "/mariohalas.png" },
-  { name: "Miljan Kovačević", age: 24, position: "Vezni", image: "/mariohalas.png" },
+  { name: "Mario Halas", age: 23, position: "Levi bek", image: "/mariohalas.png" },
+  { name: "Sokola Andrej", age: 26, position: "Desni bek", image: "/mariohalas.png" },
+  { name: "Stanjo Alen", age: 23, position: "Vezni", image: "/mariohalas.png" },
+  { name: "Stefanović-Ilić Marko", age: 21, position: "Napadač", image: "/mariohalas.png" },
+  { name: "Đurđević Aleksandar", age: 25, position: "Odbrambeni", image: "/mariohalas.png" },
+  { name: "Kraljević Nedeljko", age: 27, position: "Vezni", image: "/mariohalas.png" },
+  { name: "Liptak Zvezdan", age: 27, position: "Vezni", image: "/mariohalas.png" },
+  { name: "Mešić Dino", age: 26, position: "Levi bek", image: "/mariohalas.png" },
+  { name: "Pavlovic Darko", age: 25, position: "Desni bek", image: "/mariohalas.png" },
+  { name: "Mohan Aleksandar", age: 21, position: "Napadač", image: "/mariohalas.png" },
+  { name: "Karajlović Luka", age: 21, position: "Golman", image: "/mariohalas.png" },
   { name: "Marijan Skumpija", age: 45, position: "Selektor", image: "/mariohalas.png" }
 ];
 </script>
