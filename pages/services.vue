@@ -4,7 +4,6 @@
       <section class="mb-12">
         <!-- Utakmice i Rezultati sa Flexbox-om -->
         <h2 class="text-3xl font-bold text-center mb-8">Predstojeće Utakmice & Rezultati</h2>
-        
         <div class="flex flex-wrap justify-center gap-12"> <!-- Veći gap između blokova -->
           <!-- Utakmica 1 -->
           <div class="bg-white p-6 rounded-lg shadow-md text-center w-full sm:w-1/2 md:w-1/3 mb-8"> <!-- Dodana margina dole -->
